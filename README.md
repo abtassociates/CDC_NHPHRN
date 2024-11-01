@@ -4,7 +4,7 @@
 Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this repository.  To date, PUF files have been posted for one NHPHRN protocol (Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents Protocol)
 
 
-<h3>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT Part 1) Protocol</h3>
+<h3>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT) Protocol</h3>
 
 <p>The INHERENT study was conducted as part of the Nursing Home Public Health Response Network (NHPHRN). The NHPHRN serves as a national public health research and surveillance network and is composed of a diverse network of academic sites that have nursing homes across the United States (U.S.) within their network. Established in September 2022, the NHPHRN includes eight U.S.-based academic institutions (study sites) with expertise in NH research. Working within their existing NH research networks, each study site identified NHs willing to participate in the national NHPHRN. There are currently eighty-seven nursing homes participating in the NHPHRN network, though not all nursing homes participated in the INHERENT study. The NHPHRN is funded by the U.S. Centers for Disease Control and Prevention (CDC; contract number 75D30121D12704).</p>
 
@@ -32,12 +32,12 @@ Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this rep
 <p></p>By using this data you signify your understanding of the above-stated terms.</p>
 
 <h2>How to Download Data</h2>
-<p>The PUFs are posted in excel format.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT Part 1 dataset. The excel sheet also contains 9 separate tabs representing data dictionaries for each of the INHERENT Part 1 datset subsets.
+<p>The PUFs are posted in excel format.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT dataset. The excel sheet also contains 9 separate tabs representing data dictionaries for each of the INHERENT datset subsets.
 
 <ul>
-<li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
-<li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Data%20Use%20Agreement.docx</li>
-<li>Finally, a comprehensive description of the INHERENT Part 1 protocol can be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Protocol%20Description.docx</li>
+<li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
+<li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Data%20Use%20Agreement.docx</li>
+<li>Finally, a comprehensive description of the INHERENT protocol can be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Protocol%20Description.docx</li>
 </ul>
 
 </p>
