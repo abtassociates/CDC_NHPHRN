@@ -31,8 +31,14 @@ Public Use Files (PUFs) generated as part of CDC's Nursing Home Public Health Re
 <p></p>By using this data you signify your understanding of the above-stated terms.</p>
 
 <h2>How to Download Data</h2>
-<p>The PUF is posted as an excel file.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT Part 1 dataset. The excel sheet also contains 9 seperate tabs representing data dictionaries for the subsets of the INHERENT 1 dataset.
+<p>The PUF is posted as an excel file.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT Part 1 dataset. The excel sheet also contains 9 seperate tabs representing data dictionaries for the subsets of the INHERENT part 1 dataset.
 
-Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx
+<ul>
+<li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
+<li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Data%20Use%20Agreement.docx</li>
+
+
+</p>
+
 
 
