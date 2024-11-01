@@ -1,7 +1,7 @@
 <h1>Centers for Disease Control and Prevention (CDC) Nursing Home Public Health Response Network (NHPHRN) - Public Use Files Directory</h1>
                                                                                       
 <h2>Description</h2>
-Public Use Files (PUFs) generated as part of CDC's Nursing Home Public Health Response Network are posted in this repository.  To date, PUF files have been posted for 1 NHPHRN protocol (Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents Protocol)
+Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this repository.  To date, PUF files have been posted for one NHPHRN protocol (Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents Protocol)
 
 
 <h2>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT Part 1) Protocol</h2>
