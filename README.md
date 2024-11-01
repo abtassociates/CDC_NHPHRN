@@ -12,6 +12,7 @@ Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this rep
   <ul>
     <li>Primary objective: Characterize the kinetics of SARS-CoV-2 shedding including proliferation, peak, and clearance using qRT-PCR, antigen testing, genetic sequencing, and culture among NH residents and staff using different testing approaches and examine the influence of different factors including participant characteristics (e.g., vaccination status, prior infection, symptom status, receipt of treatment) and circulating variant. </li>
     <li>Sub-study objective: Assess the long-term (>14 days) duration of SARS-CoV-2 positivity using qRT-PCR, antigen testing, genetic sequencing, and culture. </li>
+  </ul>
 </p>
 
 <h2>Data Use Agreement</h2>
@@ -37,7 +38,7 @@ Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this rep
 <li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
 <li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Data%20Use%20Agreement.docx</li>
 <li>Finally, a comprehensive description of the INHERENT Part 1 protocol can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Protocol%20Description.docx</li>
-
+</ul>
 
 </p>
 
