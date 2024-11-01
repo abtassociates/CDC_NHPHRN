@@ -32,12 +32,12 @@ Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this rep
 <p></p>By using this data you signify your understanding of the above-stated terms.</p>
 
 <h2>How to Download Data</h2>
-<p>The PUF is posted as an excel file.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT Part 1 dataset. The excel sheet also contains 9 separate tabs representing data dictionaries for the subsets of the INHERENT part 1 dataset.
+<p>The PUFs are posted in excel format.  The excel sheet contains 9 separate tabs representing subsets of the INHERENT Part 1 dataset. The excel sheet also contains 9 separate tabs representing data dictionaries for each of the INHERENT Part 1 datset subsets.
 
 <ul>
 <li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
 <li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Data%20Use%20Agreement.docx</li>
-<li>Finally, a comprehensive description of the INHERENT Part 1 protocol can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Protocol%20Description.docx</li>
+<li>Finally, a comprehensive description of the INHERENT Part 1 protocol can be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Part%201%20Protocol%20Description.docx</li>
 </ul>
 
 </p>
