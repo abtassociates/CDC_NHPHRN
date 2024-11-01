@@ -1,7 +1,7 @@
 <h1>CDC's Nursing Home Public Health Response Network (NHPHRN) - Public Use Files Directory</h1>
                                                                                       
 <h2>Decription</h2>
-Public Use Files (PUFs) generated as part of CDC's Nursing Home Public Health Response Network are posted in this repository.  To date, PUF files have been posted for 1 NHPHRN protocol.
+Public Use Files (PUFs) generated as part of CDC's Nursing Home Public Health Response Network are posted in this repository.  To date, PUF files have been posted for 1 NHPHRN protocol (Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents Protocol)
 
 
 <h2>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT Part 1) Protocol</h2>
@@ -29,5 +29,7 @@ Public Use Files (PUFs) generated as part of CDC's Nursing Home Public Health Re
 <li>Understand that INHERENT was a voluntary study that was conducted at select nursing homes and, therefore, information from INHERENT might not be representative or generalizable of all US nursing home residents or staff members.</li>
 </ol></p>
 <p></p>By using this data you signify your understanding of the above-stated terms.</p>
+
+<h2>How to Download Data</h2>
 
 
