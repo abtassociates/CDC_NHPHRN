@@ -1,10 +1,10 @@
 <h1>Centers for Disease Control and Prevention (CDC) Nursing Home Public Health Response Network (NHPHRN) - Public Use Files Directory</h1>
                                                                                       
-<h2>Description</h2>
+<h2>Protocol Descriptions</h2>
 Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this repository.  To date, PUF files have been posted for one NHPHRN protocol (Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents Protocol)
 
 
-<h2>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT Part 1) Protocol</h2>
+<h3>Kinetics of SARS-CoV-2 Shedding in Nursing Home Staff and Residents (INHERENT Part 1) Protocol</h3>
 
 <p>The INHERENT study was conducted as part of the Nursing Home Public Health Response Network (NHPHRN). The NHPHRN serves as a national public health research and surveillance network and is composed of a diverse network of academic sites that have nursing homes across the United States (U.S.) within their network. Established in September 2022, the NHPHRN includes eight U.S.-based academic institutions (study sites) with expertise in NH research. Working within their existing NH research networks, each study site identified NHs willing to participate in the national NHPHRN. There are currently eighty-seven nursing homes participating in the NHPHRN network, though not all nursing homes participated in the INHERENT study. The NHPHRN is funded by the U.S. Centers for Disease Control and Prevention (CDC; contract number 75D30121D12704).</p>
 
