@@ -37,7 +37,7 @@ Public Use Files (PUFs) generated as part of CDC's NHPHRN are posted in this rep
 <ul>
 <li>Public consumers should download the raw dataset: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Public%20Use%20Files%20and%20Data%20Dictionary.xlsx</li>
 <li>The Full Data Use Agreement can also be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Data%20Use%20Agreement.docx</li>
-<li>Finally, a comprehensive description of the INHERENT protocol can be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Protocol%20Description.docx</li>
+<li>Finally, a comprehensive description of the INHERENT protocol can be downloaded: https://github.com/abtassociates/CDC_NHPHRN/blob/main/NHPHRN%20INHERENT%20Protocol%20Description.docx/li>
 </ul>
 
 </p>
