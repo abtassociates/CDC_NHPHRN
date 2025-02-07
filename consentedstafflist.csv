@@ -1,0 +1,313 @@
+study_id,nh,age,risk,prevcovid,whencovid,treatprevcov,vaccine,vacc_ago,mfr,bivalent,flu_vacc
+131516-367,3B,1,1,2,3,Yes,3,2,Unknown,Unknown,Current season
+131516-368,3B,2,1,1,2,No,4 or more,8,Pfizer,Unknown,Current season
+131516-369,3B,2,1,3,1,No,4 or more,8,Pfizer,Yes,Current season
+131516-370,3B,1,1,Never,9,Valid Skip,1,5,Johnson and Johnson,No,Last season
+131516-371,3B,1,1,COVID-19 status unknown,9,Valid Skip,2,4,Moderna,Unknown,Current season
+131516-372,3B,1,1,1,1,No,2,3,Pfizer,Unknown,Last season
+131516-373,3B,1,1,Never,9,Valid Skip,2,4,Pfizer,Unknown,Last season
+131516-374,3B,1,1,1,3,No,3,4,Pfizer,No,Last season
+131516-375,3B,1,1,3,1,Yes,3,5,Pfizer,No,Last season
+131516-376,3B,1,1,Never,9,Valid Skip,2,4,Pfizer,No,Last season
+131516-377,3B,1,1,Never,9,Valid Skip,2,3,Johnson and Johnson,No,Last season
+131516-378,3B,1,1,3,2,No,4 or more,4,Pfizer,Yes,Last season
+131516-379,3B,2,1,1,1,Yes,2,8,Pfizer,Unknown,Last season
+131516-380,3B,2,1,3,2,No,Vaccinated but number of doses unknown,9,Valid Skip,Valid Skip,Last season
+131516-381,3B,2,1,1,8,No,4 or more,8,Pfizer,Yes,Last season
+131516-382,3B,1,1,1,4,No,2,4,Moderna,No,Last season
+131516-383,3B,1,1,Never,9,Valid Skip,2,5,Pfizer,No,Last season
+131516-384,3B,1,1,2,3,No,3,5,Pfizer,No,Last season
+131516-385,3B,2,1,Never,9,Valid Skip,3,3,Pfizer,Unknown,Current season
+131516-386,3B,2,1,1,3,No,3,4,Moderna,Unknown,Last season
+131516-387,3B,1,1,2,3,No,3,8,Unknown,No,Last season
+131516-388,3B,2,1,1,3,No,3,4,Pfizer,No,Unknown
+131516-389,3B,1,1,2,3,No,2,5,Moderna,No,Last season
+131516-390,3B,,,1,3,No,3,4,Pfizer,No,Unknown
+131516-391,3B,2,3,2,3,Yes,4 or more,4,Pfizer,Yes,Current season
+131516-392,3B,1,1,1,3,No,3,3,Pfizer,Unknown,Last season
+131516-393,3B,1,1,1,3,Yes,3,4,Moderna,No,Unknown
+131516-394,3B,2,1,1,3,No,4 or more,4,Pfizer,No,Last season
+131516-395,3B,1,1,Never,9,Valid Skip,2,3,Pfizer,No,Current season
+131516-396,3B,2,1,1,3,No,4 or more,3,Unknown,Yes,Last season
+131516-398,3B,1,1,COVID-19 status unknown,9,Valid Skip,2,8,Moderna,Unknown,Unknown
+131516-399,3B,2,3,1,3,No,4 or more,2,Pfizer,Unknown,Last season
+131516-400,3B,1,1,Never,9,Valid Skip,3,1,Unknown,Unknown,Current season
+131516-401,3B,2,3,3,1,Yes,3,3,Pfizer,Unknown,Last season
+131516-402,3B,2,3,1,1,Yes,4 or more,3,Pfizer,Yes,Last season
+131516-403,3B,1,1,2,2,No,3,4,Unknown,No,Unknown
+131516-404,3B,1,1,1,2,Yes,3,8,Pfizer,No,Last season
+131516-405,3B,2,1,Never,9,Valid Skip,3,8,Pfizer,Unknown,Last season
+131516-474,3B,1,1,2,2,Yes,2,5,Pfizer,No,Last season
+131516-475,3B,2,1,2,1,Yes,2,4,Pfizer,No,Last season
+131516-476,3B,1,1,2,3,Yes,3,8,Pfizer,Unknown,Last season
+131516-530,3B,1,1,1,1,Yes,3,4,Pfizer,Unknown,Current season
+131516-532,3B,2,1,1,3,Yes,2,5,Pfizer,No,Unknown
+131516-536,3B,2,1,1,3,No,3,5,Pfizer,Unknown,Last season
+131516-406,3A,2,1,Never,9,Valid Skip,3,5,Moderna,No,Current season
+131516-407,3A,,,Never,9,Valid Skip,2,5,Pfizer,No,>2 years ago
+131516-409,3A,2,1,1,4,No,2,4,Moderna,No,>2 years ago
+131516-410,3A,2,1,1,3,No,3,3,Pfizer,Yes,Current season
+131516-411,3A,2,1,Never,9,Valid Skip,3,4,Unknown,Unknown,Current season
+131516-412,3A,2,1,Never,9,Valid Skip,3,3,Pfizer,No,Current season
+131516-413,3A,2,1,1,1,No,Vaccination Status Unknown,9,Valid Skip,Valid Skip,2 years ago
+131516-414,3A,2,1,1,5,No,2,5,Pfizer,Yes,Last season
+131516-415,3A,1,1,2,2,No,3,2,Moderna,No,Last season
+131516-416,3A,1,1,3,3,No,3,4,Pfizer,Unknown,Last season
+131516-417,3A,2,1,1,4,No,4 or more,4,Pfizer,Yes,Last season
+131516-418,3A,1,1,1,4,No,2,4,Moderna,No,2 years ago
+131516-419,3A,2,1,1,3,No,4 or more,2,Unknown,Yes,Last season
+131516-420,3A,2,1,Never,9,Valid Skip,3,3,Pfizer,No,Last season
+131516-421,3A,1,1,Never,9,Valid Skip,2,4,Moderna,No,Current season
+131516-422,3A,2,1,1,4,No,3,3,Pfizer,No,Current season
+131516-423,3A,1,,Never,9,Valid Skip,3,3,Pfizer,Yes,Current season
+131516-424,3A,2,3,Never,9,Valid Skip,3,5,Unknown,No,Last season
+131516-425,3A,1,1,1,5,No,3,4,Unknown,No,Last season
+131516-430,3A,2,1,2,3,No,3,4,Unknown,Unknown,Last season
+131516-431,3A,2,1,1,4,No,2,8,Pfizer,No,Last season
+131516-432,3A,2,1,Never,9,Valid Skip,3,4,Unknown,No,Last season
+131516-433,3A,2,1,1,4,Yes,3,3,Unknown,No,Last season
+131516-434,3A,1,1,Never,9,Valid Skip,4 or more,2,Moderna,No,Current season
+131516-435,3A,1,1,2,3,No,2,4,Unknown,No,Last season
+131516-436,3A,2,1,1,5,No,4 or more,2,Unknown,Yes,Current season
+131516-437,3A,1,1,1,4,No,3,4,Pfizer,No,Last season
+131516-438,3A,1,1,2,2,No,2,5,Unknown,No,2 years ago
+131516-439,3A,1,1,Never,9,Valid Skip,4 or more,2,Pfizer,Yes,Last season
+131516-440,3A,2,1,Never,9,Valid Skip,4 or more,4,Pfizer,No,Last season
+131516-441,3A,1,1,1,8,No,4 or more,3,Pfizer,No,Never received
+131516-442,3A,1,1,1,1,No,3,4,Pfizer,Unknown,Last season
+131516-443,3A,2,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131516-444,3A,1,1,Never,9,Valid Skip,3,2,Pfizer,Yes,Never received
+131516-445,3A,2,1,COVID-19 status unknown,9,Valid Skip,2,5,Pfizer,No,Last season
+131516-446,3A,2,3,Never,9,Valid Skip,2,8,Pfizer,No,Current season
+131516-447,3A,2,1,1,4,No,4 or more,3,Moderna,No,Last season
+131516-448,3A,2,1,1,5,No,3,3,Pfizer,Unknown,Last season
+131516-449,3A,1,1,Never,9,Valid Skip,2,8,Pfizer,No,Unknown
+131516-531,3A,1,1,1,8,No,2,4,Pfizer,No,Unknown
+131516-534,3A,1,1,1,3,No,2,5,Pfizer,No,Current season
+131516-557,3A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-558,3A,2,1,Never,9,Valid Skip,2,5,Moderna,No,Current season
+131516-559,3A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-561,3A,1,1,Never,9,Valid Skip,3,1,Moderna,No,Current season
+131516-562,3A,2,1,Never,9,Valid Skip,Vaccinated but number of doses unknown,9,Valid Skip,Valid Skip,Current season
+131516-427,3C,2,1,4,2,No,4 or more,2,Pfizer,Unknown,Current season
+131516-428,3C,2,1,3,3,No,4 or more,3,Pfizer,Unknown,Last season
+131516-429,3C,1,1,1,3,No,3,4,Pfizer,Unknown,Current season
+131516-450,3C,2,1,Never,9,Valid Skip,3,3,Pfizer,Unknown,Last season
+131516-465,3C,1,1,1,4,No,2,4,Pfizer,No,Current season
+131516-466,3C,1,1,1,2,No,4 or more,3,Pfizer,Yes,Current season
+131516-467,3C,1,1,Never,9,Valid Skip,1,4,Pfizer,Unknown,Current season
+131516-473,3C,2,3,COVID-19 status unknown,9,Valid Skip,4 or more,4,Pfizer,Unknown,Unknown
+131516-529,3C,1,1,Never,9,Valid Skip,4 or more,3,Pfizer,Yes,Last season
+131516-533,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-535,3C,1,1,Never,9,Valid Skip,0,9,Valid Skip,Valid Skip,Unknown
+131516-537,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-538,3C,2,1,Never,9,Valid Skip,3,4,Pfizer,No,Last season
+131516-539,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-540,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-556,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131516-560,3C,1,1,Never,9,Valid Skip,2,4,Pfizer,No,2 years ago
+131516-563,3C,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-100,4E,2,1,Never,9,Valid Skip,3,4,Unknown,Yes,Last season
+131517-101,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-102,4E,1,1,1,2,No,3,4,Moderna,Unknown,>2 years ago
+131517-103,4E,1,1,1,2,No,2,5,Pfizer,No,Last season
+131517-104,4E,2,1,Never,9,Valid Skip,2,5,Pfizer,No,>2 years ago
+131517-105,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-106,4E,1,1,1,3,No,3,3,Pfizer,Yes,Last season
+131517-107,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-108,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-109,4E,1,1,Never,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-110,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-111,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-112,4E,2,1,2,3,Yes,4 or more,4,Pfizer,No,Last season
+131517-113,4E,1,1,2,3,No,2,5,Pfizer,No,2 years ago
+131517-114,4E,2,3,2,2,No,0,9,Valid Skip,Valid Skip,2 years ago
+131517-115,4E,1,1,2,2,No,4 or more,4,Pfizer,No,Last season
+131517-116,4E,1,1,1,2,Yes,3,8,Pfizer,Yes,Last season
+131517-117,4E,1,1,1,8,Unknown,2,8,Pfizer,No,Last season
+131517-118,4E,2,1,2,2,No,4 or more,3,Pfizer,No,Last season
+131517-119,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-93,4E,2,1,Never,9,Valid Skip,4 or more,4,Pfizer,Yes,Last season
+131517-94,4E,1,1,1,2,No,4 or more,4,Pfizer,No,Last season
+131517-95,4E,2,1,1,5,No,2,5,Pfizer,No,Last season
+131517-96,4E,1,1,1,3,No,3,2,Moderna,Yes,Current season
+131517-97,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-98,4E,1,1,Never,9,Valid Skip,3,3,Pfizer,Yes,Last season
+131517-99,4E,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-1,4A,2,3,1,1,No,4 or more,3,Pfizer,Yes,Last season
+131517-10,4A,1,1,2,2,No,2,5,Moderna,No,2 years ago
+131517-11,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-12,4A,1,1,1,3,No,2,4,Pfizer,No,Current season
+131517-13,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-14,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-15,4A,1,1,1,3,No,1,4,Pfizer,No,Last season
+131517-16,4A,1,1,1,3,No,3,5,Pfizer,Yes,Last season
+131517-17,4A,1,1,COVID-19 status unknown,9,Valid Skip,2,5,Unknown,No,Last season
+131517-18,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-19,4A,1,1,2,3,No,0,9,Valid Skip,Valid Skip,Current season
+131517-2,4A,1,1,1,2,No,3,3,Moderna,Yes,Unknown
+131517-20,4A,2,1,2,1,No,2,5,Pfizer,No,Current season
+131517-21,4A,2,1,Never,9,Valid Skip,3,3,Pfizer,No,Last season
+131517-22,4A,1,1,1,3,No,3,4,Pfizer,Yes,Current season
+131517-23,4A,1,,1,2,No,4 or more,3,Pfizer,No,Last season
+131517-24,4A,2,1,Never,9,Valid Skip,4 or more,1,Pfizer,Yes,Last season
+131517-25,4A,1,1,2,2,No,3,4,Moderna,Yes,Last season
+131517-26,4A,1,1,1,4,No,4 or more,4,Moderna,No,Unknown
+131517-27,4A,1,1,2,3,No,3,4,Moderna,No,Current season
+131517-3,4A,1,1,1,2,No,4 or more,4,Moderna,No,Unknown
+131517-4,4A,1,1,2,5,No,2,5,Pfizer,No,2 years ago
+131517-5,4A,2,1,Never,9,Valid Skip,4 or more,4,Pfizer,No,Last season
+131517-6,4A,1,1,Never,9,Valid Skip,2,4,Pfizer,No,Unknown
+131517-7,4A,1,1,Never,9,Valid Skip,2,4,Pfizer,No,Last season
+131517-8,4A,1,1,1,5,Yes,3,3,Pfizer,Unknown,Last season
+131517-9,4A,2,1,Never,9,Valid Skip,0,9,Valid Skip,Valid Skip,2 years ago
+131517-28,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-29,4A,2,3,Never,9,Valid Skip,4 or more,1,Pfizer,Yes,Last season
+131517-30,4A,1,1,1,1,No,3,4,Pfizer,No,Last season
+131517-32,4A,1,1,1,8,Unknown,4 or more,2,Pfizer,Yes,Last season
+131517-48,4A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131517-49,4A,1,1,Never,9,Valid Skip,2,5,Pfizer,No,Last season
+131519-255,6A,1,1,Never,9,Valid Skip,3,4,Moderna,No,Last season
+131519-256,6A,2,3,2,2,No,4 or more,3,Moderna,Yes,Last season
+131519-257,6A,1,1,2,2,No,3,4,Moderna,Unknown,Last season
+131519-258,6A,1,1,1,3,No,2,3,Pfizer,Unknown,Last season
+131519-259,6A,1,1,Never,9,Valid Skip,2,5,Pfizer,No,Last season
+131519-260,6A,1,1,2,2,No,3,4,Pfizer,Yes,Last season
+131519-261,6A,1,1,Never,9,Valid Skip,4 or more,8,Moderna,Yes,Last season
+131519-262,6A,1,1,1,3,No,3,4,Moderna,No,Last season
+131519-263,6A,1,1,1,3,No,Vaccinated but number of doses unknown,9,Valid Skip,Valid Skip,Unknown
+131519-264,6A,2,1,Never,9,Valid Skip,2,5,Unknown,Unknown,Last season
+131519-265,6A,1,1,Never,9,Valid Skip,3,4,Moderna,Unknown,Last season
+131519-266,6A,1,1,2,3,Yes,2,4,Pfizer,No,Last season
+131519-298,6A,1,1,Never,9,Valid Skip,2,5,Pfizer,No,Unknown
+131519-299,6A,2,1,2,2,No,4 or more,3,Moderna,Yes,Current season
+131519-300,6A,1,1,2,3,No,3,4,Moderna,No,Current season
+131519-301,6A,1,1,1,3,No,2,5,Moderna,No,Current season
+131519-302,6A,1,1,Never,9,Valid Skip,0,9,Valid Skip,Valid Skip,Current season
+131519-155,6D,1,1,3,2,Yes,2,5,Pfizer,No,Last season
+131519-156,6D,1,1,1,3,No,3,2,Pfizer,Yes,Unknown
+131519-157,6D,,,Never,9,Valid Skip,4 or more,2,Moderna,Yes,Last season
+131519-162,6D,1,1,Never,9,Valid Skip,3,3,Pfizer,Yes,Current season
+131519-163,6D,1,1,Never,9,Valid Skip,2,5,Moderna,No,Last season
+131519-164,6D,1,1,2,3,Yes,2,4,Pfizer,No,Last season
+131519-165,6D,1,1,2,2,No,2,4,Moderna,No,Last season
+131519-166,6D,1,1,2,4,No,3,3,Moderna,No,Current season
+131519-168,6D,1,1,1,3,No,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Last season
+131519-169,6D,1,1,COVID-19 status unknown,9,Valid Skip,2,4,Moderna,No,Last season
+131519-171,6D,2,1,1,2,No,2,4,Moderna,No,Current season
+131519-274,6C,1,1,1,8,Unknown,4 or more,3,Moderna,Yes,Last season
+131266-10,2F,2,1,1,2,No,4 or more,4,Pfizer,No,2 years ago
+131266-11,2F,2,1,1,4,No,4 or more,3,Pfizer,Yes,Last season
+131266-12,2B,1,1,1,3,No,4 or more,2,Pfizer,Yes,Last season
+131266-13,2B,1,1,1,1,No,3,4,Pfizer,No,Unknown
+131266-14,2B,1,1,1,2,No,4 or more,3,Pfizer,Yes,Last season
+131266-15,2B,1,1,1,3,No,0,9,Valid Skip,Valid Skip,Never received
+131266-16,2B,2,1,3,1,No,2,5,Moderna,No,Never received
+131266-17,2B,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131266-18,2B,1,1,1,5,No,3,4,Pfizer,No,Never received
+131266-19,2B,2,1,1,4,No,4 or more,2,Pfizer,Yes,Last season
+131266-20,2B,1,1,1,1,No,4 or more,3,Pfizer,Yes,Last season
+131266-21,2B,1,1,Never,9,Valid Skip,3,4,Pfizer,No,Never received
+131266-22,2B,1,1,1,2,No,4 or more,3,Pfizer,Yes,Last season
+131266-23,2B,2,1,1,2,No,4 or more,2,Pfizer,Yes,Last season
+131266-24,2B,1,1,1,2,No,4 or more,3,Pfizer,Yes,Last season
+131266-25,2B,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131266-26,2B,2,1,1,4,No,4 or more,2,Pfizer,Yes,Last season
+131266-27,2B,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131518-32,5G,2,1,Never,9,Valid Skip,4 or more,3,Pfizer,Yes,Last season
+131518-71,5G,1,1,1,2,No,3,2,Moderna,Yes,Current season
+131518-72,5G,1,1,1,2,No,4 or more,2,Pfizer,Yes,Last season
+131518-73,5G,1,1,2,3,No,4 or more,2,Pfizer,Yes,Last season
+131518-74,5G,1,1,2,3,No,3,3,Pfizer,Unknown,>2 years ago
+131518-76,5G,2,1,Never,9,Valid Skip,4 or more,8,Pfizer,Yes,Last season
+131518-77,5G,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131518-84,5G,1,1,Never,9,Valid Skip,4 or more,3,Pfizer,Unknown,Last season
+131518-95,5G,1,1,Never,9,Valid Skip,2,4,Pfizer,Unknown,2 years ago
+131518-134,5G,1,1,2,8,Unknown,3,4,Pfizer,No,Last season
+131518-155,5G,1,1,Never,9,Valid Skip,4 or more,4,Pfizer,Yes,Last season
+131518-168,5G,1,1,Never,9,Valid Skip,4 or more,1,Pfizer,Yes,Current season
+131518-107,5J,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131518-110,5J,2,1,COVID-19 status unknown,9,Valid Skip,4 or more,3,Pfizer,Yes,Last season
+131518-118,5J,1,1,1,1,No,4 or more,3,Pfizer,Yes,Last season
+131518-119,5J,1,1,1,1,No,4 or more,4,Pfizer,No,Last season
+131518-120,5J,1,1,1,2,No,3,3,Pfizer,Yes,Last season
+131518-121,5J,1,1,1,1,No,3,3,Moderna,Unknown,2 years ago
+131518-122,5J,1,1,1,2,No,3,2,Pfizer,Yes,Last season
+131518-123,5J,1,1,3,1,No,4 or more,4,Moderna,Unknown,Current season
+131518-124,5J,1,1,2,2,No,4 or more,1,Moderna,Yes,Last season
+131518-125,5J,1,1,2,1,No,4 or more,3,Pfizer,Yes,Last season
+131518-127,5J,1,1,1,3,No,4 or more,8,Pfizer,Unknown,Last season
+131518-128,5J,1,1,Never,9,Valid Skip,4 or more,3,Pfizer,Yes,Last season
+131518-129,5J,1,1,Never,9,Valid Skip,3,8,Pfizer,Unknown,Unknown
+131518-130,5J,2,1,Never,9,Valid Skip,3,3,Pfizer,Yes,Last season
+131518-131,5J,2,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131518-132,5J,1,1,2,1,No,3,1,Pfizer,Yes,Last season
+131518-166,5J,1,1,Never,9,Valid Skip,4 or more,1,Pfizer,Yes,Current season
+131518-14,5H,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131518-16,5H,1,1,1,4,No,2,4,Moderna,Unknown,Unknown
+131518-18,5H,2,1,2,1,No,4 or more,2,Pfizer,Yes,Last season
+131518-26,5H,2,1,1,2,No,4 or more,3,Pfizer,Yes,Last season
+131518-27,5H,2,1,1,4,No,4 or more,2,Pfizer,Yes,Last season
+131518-28,5H,1,1,Never,9,Valid Skip,3,5,Moderna,No,>2 years ago
+131518-29,5H,2,1,1,1,No,4 or more,3,Pfizer,Yes,Last season
+131518-30,5H,2,1,2,1,Yes,2,5,Pfizer,No,>2 years ago
+131518-78,5H,1,1,COVID-19 status unknown,9,Valid Skip,2,4,Johnson and Johnson,No,Last season
+131518-142,5H,1,1,1,8,Unknown,3,4,Pfizer,Unknown,2 years ago
+131520-188,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-189,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-230,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-231,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-186,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-222,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-223,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-224,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-225,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-226,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-227,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-228,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131520-229,7A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-6,1B,1,1,1,2,Yes,4 or more,1,Pfizer,Yes,Current season
+131265-15,1B,2,1,2,1,No,3,4,Pfizer,No,Last season
+131265-16,1B,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-17,1B,1,1,3,1,No,3,4,Pfizer,Yes,Last season
+131265-37,1B,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-64,1B,1,1,3,3,No,4 or more,8,Pfizer,Yes,Last season
+131265-75,1B,2,1,Never,9,Valid Skip,4 or more,2,Pfizer,Yes,Last season
+131265-77,1B,1,1,2,3,No,3,8,Pfizer,Yes,Current season
+131265-46,1A,2,1,Never,9,Valid Skip,4 or more,2,Pfizer,Yes,Last season
+131265-49,1A,1,1,Never,9,Valid Skip,4 or more,3,Moderna,Yes,Last season
+131265-51,1A,1,1,3,3,No,2,4,Moderna,No,Last season
+131265-52,1A,2,1,1,3,No,3,3,Pfizer,No,Last season
+131265-53,1A,1,1,1,3,No,4 or more,3,Moderna,Yes,Last season
+131265-54,1A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-55,1A,1,1,1,3,No,4 or more,3,Pfizer,Yes,Last season
+131265-56,1A,1,1,3,1,No,3,4,Moderna,Unknown,Last season
+131265-57,1A,,,2,8,No,3,8,Moderna,Yes,Unknown
+131265-58,1A,2,1,Never,9,Valid Skip,3,4,Pfizer,No,Last season
+131265-59,1A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-60,1A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-61,1A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131265-62,1A,1,1,1,3,No,3,3,Pfizer,Yes,Last season
+131265-63,1A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131521-1,8A,1,1,1,1,No,4 or more,3,Pfizer,Yes,Last season
+131521-5,8A,1,1,1,2,No,4 or more,3,Moderna,Yes,Last season
+131521-6,8A,1,1,2,1,No,4 or more,1,Moderna,Yes,Last season
+131521-2,8A,1,1,2,3,No,2,5,Pfizer,No,Last season
+131521-3,8A,2,1,1,4,No,4 or more,3,Moderna,Yes,Last season
+131521-4,8A,1,1,Never,9,Valid Skip,2,5,Moderna,Unknown,>2 years ago
+131521-10,8A,2,1,1,3,No,4 or more,3,Moderna,Yes,Last season
+131521-11,8A,1,1,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131521-16,8A,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131521-17,8A,1,1,1,2,No,2,8,Pfizer,No,Last season
+131521-18,8A,1,1,Never,9,Valid Skip,2,4,Moderna,No,Unknown
+131521-21,8A,1,1,2,4,No,3,4,Pfizer,No,Last season
+131521-8,8A,2,1,2,2,Yes,2,5,Moderna,Unknown,Last season
+131521-9,8A,2,1,2,2,Yes,4 or more,4,Moderna,Unknown,Last season
+131521-22,8A,1,1,1,3,No,4 or more,2,Pfizer,Yes,Last season
+131521-28,8B,2,1,Never,9,Valid Skip,4 or more,1,Moderna,Yes,Last season
+131521-29,8B,,,COVID-19 status unknown,9,Valid Skip,Vaccination Status Unknown,9,Valid Skip,Valid Skip,Unknown
+131521-31,8B,2,3,3,3,No,4 or more,3,Moderna,No,Last season
+131521-32,8B,1,1,COVID-19 status unknown,9,Valid Skip,4 or more,4,Moderna,Yes,Last season
+131521-33,8B,1,1,Never,9,Valid Skip,2,5,Pfizer,Yes,Unknown
+131521-35,8B,2,1,1,3,No,4 or more,1,Moderna,Yes,Current season
+131521-36,8B,1,1,Never,9,Valid Skip,3,2,Pfizer,Yes,Last season

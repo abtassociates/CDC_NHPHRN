@@ -1,0 +1,24 @@
+nh,study_id,outbreak,t3consent,caseday,latesday,symptom,death,paxlovid,remdesivir,molnupiravir,plasma,monoclonal,steroid,other_treat,staff_care,unit_s_m_1,unit_s_m_2,unit_s_m_3,unit_s_m_4,unit_s_m_5,unit_s_m_6,age,risk,prevcovid,whencovid,treatprevcov,vaccine,vacc_ago,mfr,bivalent,flu_vacc
+1A,131265-49,133755-2,Yes,0,25,Yes,Unknown,No,No,No,No,No,No,No,No,A,No additional units,No additional units,No additional units,No additional units,No additional units,1,0,Never,9,Valid Skip,4,3,Moderna,Yes,Last season
+1B,131265-64,133755-6,Not asked,13,27,Yes,No,No,No,No,No,No,No,No,No,A,B,C,D,E,F,1,0,3,3,No,4,8,Pfizer,Yes,Last season
+1B,131265-75,133755-4,Yes,3,91,Yes,Unknown,Yes,No,No,No,No,No,No,No,A,B,C,D,E,F,2,1,Never,9,Valid Skip,4,2,Pfizer,Yes,Last season
+1B,131265-77,133755-4,Yes,4,91,Yes,No,No,No,No,No,No,No,No,No,A,B,C,No additional units,No additional units,No additional units,1,0,2,3,No,3,8,Pfizer,Yes,Current season
+3A,131516-414,133757-2,No,1,14,Unknown,No,No,No,No,No,No,No,No,Unknown,C,No additional units,No additional units,No additional units,No additional units,No additional units,2,1,1,5,No,2,5,Pfizer,Yes,Last season
+3A,131516-417,133757-2,No,1,14,Yes,No,No,No,No,No,No,No,No,No,A,B,C,D,No additional units,No additional units,2,1,1,4,No,4,4,Pfizer,Yes,Last season
+3C,131516-427,133757-1,Yes,4,44,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Did not work on any units,No additional units,No additional units,No additional units,No additional units,No additional units,2,1,4,2,No,4,2,Pfizer,Unknown,Current season
+3C,131516-450,133757-1,No,2,15,Yes,No,No,No,No,No,No,No,No,Yes,B,C,D,No additional units,No additional units,No additional units,2,1,Never,9,Valid Skip,3,3,Pfizer,Unknown,Last season
+3C,131516-473,133757-1,Not asked,12,23,Yes,No,No,No,No,No,No,No,No,Unknown,Did not work on any units,No additional units,No additional units,No additional units,No additional units,No additional units,2,3,COVID-19 status unknown,9,Valid Skip,4,4,Pfizer,Unknown,Unknown
+3C,131516-563,133757-5,Not asked,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Did not work on any units,No additional units,No additional units,No additional units,No additional units,No additional units,8,,"Infected, but number of times unknown",9,Valid Skip,Unknown,9,Valid Skip,Valid Skip,Unknown
+4A,131517-24,133758-3,Yes,0,75,Yes,No,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,No,Yes,A,B,No additional units,No additional units,No additional units,No additional units,2,1,Never,9,Valid Skip,4,1,Pfizer,Yes,Last season
+4A,131517-32,133758-1,Yes,0,86,No,No,No,No,No,No,No,No,No,No,A,B,No additional units,No additional units,No additional units,No additional units,1,0,1,8,Unknown,4,2,Pfizer,Yes,Last season
+5J,131518-107,133759-5,Yes,0,73,Yes,No,No,No,No,No,No,No,No,No,C,No additional units,No additional units,No additional units,No additional units,No additional units,1,1,1,3,No,4,3,Pfizer,Yes,Last season
+5J,131518-110,133759-8,Yes,0,84,Yes,No,No,No,No,No,No,No,No,Yes,C,No additional units,No additional units,No additional units,No additional units,No additional units,2,1,COVID-19 status unknown,9,Valid Skip,4,3,Pfizer,Yes,Last season
+5G,131518-134,133759-7,No,13,27,Yes,No,No,No,No,No,No,No,No,No,A,B,No additional units,No additional units,No additional units,No additional units,1,1,2,8,Unknown,3,4,Pfizer,No,Last season
+5H,131518-142,133759-10,No,1,15,Yes,No,No,No,No,No,No,No,No,Yes,A,No additional units,No additional units,No additional units,No additional units,No additional units,1,0,1,8,Unknown,3,4,Pfizer,Unknown,2 years ago
+5G,131518-155,133759-11,No,0,17,Yes,No,No,No,No,No,No,No,No,No,G,H,No additional units,No additional units,No additional units,No additional units,1,0,Never,9,Valid Skip,4,3,Pfizer,Yes,Last season
+5J,131518-166,133759-14,No,0,14,Yes,No,No,No,No,No,No,No,No,No,A,B,C,D,E,No additional units,1,0,Never,9,Valid Skip,4,1,Pfizer,Yes,Current season
+5G,131518-168,133759-13,Yes,0,90,Yes,No,Yes,No,No,No,No,No,No,No,A,B,E,F,G,H,1,1,Never,9,Valid Skip,4,1,Pfizer,Yes,Current season
+5H,131518-30,133759-6,Yes,0,90,Yes,No,No,No,No,No,No,No,No,No,A,B,C,No additional units,No additional units,No additional units,2,1,2,1,Yes,2,5,Pfizer,No,>2 years ago
+5G,131518-32,133759-2,Yes,0,86,Yes,No,No,No,No,No,No,No,No,No,E,F,No additional units,No additional units,No additional units,No additional units,2,1,Never,9,Valid Skip,4,3,Pfizer,Yes,Last season
+8A,131521-10,133762-1,Yes,0,87,Yes,No,No,No,No,No,No,No,No,No,A,No additional units,No additional units,No additional units,No additional units,No additional units,2,1,1,3,No,4,3,Moderna,Yes,Last season
+8A,131521-22,133762-2,Not asked,0,14,Yes,No,No,No,No,No,No,No,No,No,A,No additional units,No additional units,No additional units,No additional units,No additional units,1,0,1,3,No,4,2,Pfizer,Yes,Last season

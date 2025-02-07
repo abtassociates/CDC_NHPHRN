@@ -1,0 +1,294 @@
+nh,outbreak,study_id,type,survey_day,Paxlovid,Remdesivir,Molnupiravir,Plasma,Monoclonal,Steroid,Other_treat,pax_start,pax_days,mol_start,mol_days,oth_start,oth_days,staff_care
+1C,133755-5,131265-104,Resident,1,No,No,Yes,No,No,No,,,,0,2,,,"N/A, resident"
+1B,133755-6,131265-108,Resident,2,Yes,No,No,No,No,No,,1,2,,,,,"N/A, resident"
+1B,133755-6,131265-109,Resident,16,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-109,Resident,25,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-109,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,37,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,15,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,59,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,70,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,80,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-110,Resident,24,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-111,Resident,1,No,No,Yes,No,No,No,,,,0,2,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,1,No,No,Yes,No,No,No,,,,0,2,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,57,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,47,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,69,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,90,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-6,131265-113,Resident,29,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-24,Resident,5,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-31,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,60,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,72,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,86,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-32,Resident,42,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-34,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-38,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,88,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,3,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,57,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,78,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,29,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,44,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-4,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1A,133755-2,131265-49,Staff,41,No,No,No,No,No,No,,,,,,,,Unknown
+1A,133755-2,131265-49,Staff,28,No,No,No,No,No,No,,,,,,,,Unknown
+1A,133755-2,131265-49,Staff,17,No,No,No,No,No,No,,,,,,,,Unknown
+1A,133755-2,131265-49,Staff,4,No,No,No,No,No,No,,,,,,,,No
+1B,133755-6,131265-64,Staff,1,No,No,No,No,No,No,,,,,,,,No
+1B,133755-6,131265-64,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-68,Resident,64,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,92,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,70,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,43,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,29,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-68,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-69,Resident,33,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-69,Resident,61,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-69,Resident,48,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-69,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-69,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,0,No,No,Yes,No,No,No,,,,0,1,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,91,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,48,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,56,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,68,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-70,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-71,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-71,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-72,Resident,0,No,No,Yes,No,No,No,,,,0,1,,,"N/A, resident"
+1B,133755-4,131265-72,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-73,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-73,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-73,Resident,32,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-75,Staff,81,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-75,Staff,27,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-75,Staff,43,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-75,Staff,1,Yes,No,No,No,No,No,,0,2,,,,,No
+1B,133755-4,131265-75,Staff,53,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-75,Staff,67,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-75,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-77,Staff,13,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-77,Staff,3,No,No,No,No,No,No,,,,,,,,No
+1B,133755-4,131265-77,Staff,83,No,No,No,No,No,No,,,,,,,,Unknown
+1B,133755-4,131265-81,Resident,0,No,No,No,No,No,No,"Cough medicine
+(mucinex,
+benzonatate,
+geri-tussin)",,,,,0,1,"N/A, resident"
+1B,133755-4,131265-81,Resident,42,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-81,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-81,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-4,131265-81,Resident,56,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-86,Resident,2,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-88,Resident,29,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-88,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-88,Resident,1,No,No,Yes,No,No,No,,,,0,2,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,72,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,86,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,57,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1B,133755-1,131265-9,Resident,42,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-91,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-91,Resident,3,Yes,No,No,No,No,No,,3,1,,,,,"N/A, resident"
+1C,133755-5,131265-91,Resident,20,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+1C,133755-5,131265-97,Resident,5,No,No,Yes,No,No,No,,,,0,6,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,69,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,6,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,48,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,41,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-107,Resident,82,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,36,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,49,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,25,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,80,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-159,Resident,67,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,16,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,3,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,51,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,21,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,38,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,69,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-194,Resident,82,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,45,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,57,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,4,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,31,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,16,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2F,133756-2,131266-197,Resident,73,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-199,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-199,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-200,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-200,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-37,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2G,133756-3,131266-37,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,84,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,42,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,70,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,56,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-84,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-89,Resident,13,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+2D,133756-1,131266-89,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3A,133757-2,131516-240,Resident,48,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3A,133757-2,131516-256,Resident,14,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3A,133757-2,131516-256,Resident,0,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-293,Resident,21,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-293,Resident,3,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3A,133757-2,131516-414,Staff,50,No,No,No,No,No,No,,,,,,,,Unknown
+3A,133757-2,131516-417,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+3A,133757-2,131516-417,Staff,2,No,No,No,No,No,No,,,,,,,,No
+3C,133757-1,131516-426,Resident,3,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-426,Resident,24,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-450,Staff,54,No,No,No,No,No,No,,,,,,,,Yes
+3C,133757-1,131516-451,Resident,4,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-451,Resident,22,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-454,Resident,4,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-454,Resident,22,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-457,Resident,22,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-457,Resident,4,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-458,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-1,131516-458,Resident,19,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-5,131516-461,Resident,54,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3A,133757-2,131516-471,Resident,18,Yes,No,No,No,No,No,,0,6,,,,,"N/A, resident"
+3A,133757-2,131516-471,Resident,0,Yes,No,No,No,No,No,,0,6,,,,,"N/A, resident"
+3C,133757-1,131516-473,Staff,44,No,No,No,No,No,No,,,,,,,,Unknown
+3B,133757-3,131516-512,Resident,22,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3B,133757-3,131516-512,Resident,55,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3B,133757-4,131516-541,Resident,32,Yes,No,No,No,No,No,,0,6,,,,,"N/A, resident"
+3B,133757-4,131516-548,Resident,30,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+3C,133757-5,131516-565,Resident,17,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+4A,133758-3,131517-24,Staff,71,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,,,,,,Unknown
+4A,133758-3,131517-24,Staff,55,No,No,No,No,No,No,,,,,,,,Unknown
+4A,133758-3,131517-24,Staff,0,Yes,No,No,No,No,No,,0,1,,,,,Yes
+4A,133758-1,131517-32,Staff,83,No,No,No,No,No,No,,,,,,,,Unknown
+4A,133758-1,131517-32,Staff,1,No,No,No,No,No,No,,,,,,,,No
+5G,133759-7,131518-103,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-103,Resident,7,No,No,Yes,No,No,No,,,,0,6,,,"N/A, resident"
+5G,133759-7,131518-103,Resident,78,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-103,Resident,61,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-103,Resident,14,No,No,Yes,No,No,No,,,,0,6,,,"N/A, resident"
+5G,133759-7,131518-103,Resident,39,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5J,133759-5,131518-107,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-5,131518-107,Staff,1,No,No,No,No,No,No,,,,,,,,No
+5J,133759-5,131518-107,Staff,84,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-5,131518-107,Staff,41,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-5,131518-107,Staff,56,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-5,131518-107,Staff,27,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-5,131518-107,Staff,70,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,44,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,69,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,55,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,1,No,No,No,No,No,No,,,,,,,,Yes
+5J,133759-8,131518-110,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,28,No,No,No,No,No,No,,,,,,,,Unknown
+5J,133759-8,131518-110,Staff,83,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-7,131518-134,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-7,131518-134,Staff,1,No,No,No,No,No,No,,,,,,,,No
+5H,133759-10,131518-139,Resident,14,No,No,Yes,No,No,No,,,,1,6,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,59,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,67,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,36,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,9,No,No,Yes,No,No,No,,,,1,6,,,"N/A, resident"
+5H,133759-10,131518-139,Resident,80,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5H,133759-10,131518-142,Staff,16,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-10,131518-142,Staff,1,No,No,No,No,No,No,,,,,,,,Yes
+5G,133759-11,131518-155,Staff,17,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-11,131518-155,Staff,4,No,No,No,No,No,No,,,,,,,,No
+5J,133759-14,131518-166,Staff,1,No,No,No,No,No,No,,,,,,,,No
+5J,133759-14,131518-166,Staff,17,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,5,Yes,No,No,No,No,No,,2,4,,,,,No
+5G,133759-13,131518-168,Staff,34,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,90,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,74,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,60,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,48,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-13,131518-168,Staff,18,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,30,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,4,No,No,No,No,No,No,,,,,,,,No
+5H,133759-6,131518-30,Staff,58,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,72,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,17,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,44,No,No,No,No,No,No,,,,,,,,Unknown
+5H,133759-6,131518-30,Staff,87,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-2,131518-32,Staff,55,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-2,131518-32,Staff,69,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-2,131518-32,Staff,27,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-2,131518-32,Staff,83,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-2,131518-32,Staff,39,No,No,No,No,No,No,,,,,,,,Unknown
+5G,133759-3,131518-49,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-3,131518-49,Resident,17,No,No,Yes,No,No,No,,,,3,6,,,"N/A, resident"
+5G,133759-3,131518-49,Resident,55,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-3,131518-49,Resident,38,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,77,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,14,Yes,No,No,No,No,No,,1,6,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,6,Yes,No,No,No,No,No,,1,6,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,64,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,39,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-85,Resident,50,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,50,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,80,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,15,Yes,No,No,No,No,No,,2,6,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,37,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,57,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-89,Resident,1,Yes,No,No,No,No,No,,2,6,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,26,Yes,No,No,No,No,No,,24,3,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,15,Yes,No,No,No,No,No,,3,6,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,89,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,60,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,51,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,72,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,103,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,37,Yes,No,No,No,No,No,,24,6,,,,,"N/A, resident"
+5G,133759-7,131518-92,Resident,4,Yes,No,No,No,No,No,,4,5,,,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,41,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,68,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,14,No,No,Yes,No,No,No,,,,0,5,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,81,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,28,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-102,Resident,56,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,82,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,37,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,1,No,No,Yes,No,No,No,,,,1,5,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,54,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,26,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,66,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6A,133760-11,131519-126,Resident,15,No,No,Yes,No,No,No,,,,1,5,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,1,No,No,Yes,No,No,No,,,,1,5,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,55,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,14,No,No,Yes,No,No,No,,,,1,10,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,82,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,71,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6D,133760-12,131519-25,Resident,40,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+6D,133760-12,131519-5,Resident,14,No,No,Yes,No,No,No,,,,1,10,,,"N/A, resident"
+6D,133760-12,131519-5,Resident,1,No,No,Yes,No,No,No,,,,1,1,,,"N/A, resident"
+6D,133760-12,131519-6,Resident,1,No,No,Yes,No,No,No,,,,1,5,,,"N/A, resident"
+6D,133760-12,131519-6,Resident,14,No,No,Yes,No,No,No,,,,1,10,,,"N/A, resident"
+6D,133760-12,131519-8,Resident,1,No,No,Yes,No,No,No,,,,1,5,,,"N/A, resident"
+6D,133760-12,131519-8,Resident,14,No,No,Yes,No,No,No,,,,1,10,,,"N/A, resident"
+7A,133761-2,131520-187,Resident,1,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+7A,133761-2,131520-187,Resident,27,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+7A,133761-2,131520-187,Resident,67,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+7A,133761-2,131520-187,Resident,53,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+7A,133761-2,131520-187,Resident,39,No,No,No,No,No,No,,,,,,,,"N/A, resident"
+8A,133762-1,131521-10,Staff,19,No,No,No,No,No,No,,,,,,,,Unknown
+8A,133762-1,131521-10,Staff,1,No,No,No,No,No,No,,,,,,,,No
+8A,133762-2,131521-22,Staff,14,No,No,No,No,No,No,,,,,,,,Unknown
+8A,133762-2,131521-22,Staff,2,No,No,No,No,No,No,,,,,,,,No
